@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\ServerWeather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49B998B8-9125-4EE3-9A5C-E7D83E525374}|..\\Data\\Data.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B. solid \u0441\u0442\u0440\u0435\u0431\u043A\u043E\u0432\\proverochnyarabotanicholas\\serverweather\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EAB929-C30B-4A86-A765-3756747F3FAF}|ServerWeather.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B. solid \u0441\u0442\u0440\u0435\u0431\u043A\u043E\u0432\\proverochnyarabotanicholas\\serverweather\\serverweather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EAB929-C30B-4A86-A765-3756747F3FAF}|ServerWeather.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B01F2E-192C-4FAD-A6BD-ACA60160B297}|..\\ClientWeather\\ClientWeather.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B. solid \u0441\u0442\u0440\u0435\u0431\u043A\u043E\u0432\\proverochnyarabotanicholas\\serverweather\\clientweather\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36648678-B790-483D-807B-45E6C8EB37BF}|..\\WeatherLibrary\\WeatherLibrary.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B. solid \u0441\u0442\u0440\u0435\u0431\u043A\u043E\u0432\\proverochnyarabotanicholas\\serverweather\\weatherlibrary\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36648678-B790-483D-807B-45E6C8EB37BF}|..\\WeatherLibrary\\WeatherLibrary.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B. solid \u0441\u0442\u0440\u0435\u0431\u043A\u043E\u0432\\proverochnyarabotanicholas\\serverweather\\weatherlibrary\\model\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36648678-B790-483D-807B-45E6C8EB37BF}|..\\WeatherLibrary\\WeatherLibrary.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B. solid \u0441\u0442\u0440\u0435\u0431\u043A\u043E\u0432\\proverochnyarabotanicholas\\serverweather\\weatherlibrary\\model\\weatherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B998B8-9125-4EE3-9A5C-E7D83E525374}|..\\Data\\Data.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B. solid \u0441\u0442\u0440\u0435\u0431\u043A\u043E\u0432\\proverochnyarabotanicholas\\serverweather\\data\\table\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B998B8-9125-4EE3-9A5C-E7D83E525374}|..\\Data\\Data.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B. solid \u0441\u0442\u0440\u0435\u0431\u043A\u043E\u0432\\proverochnyarabotanicholas\\serverweather\\data\\table\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B01F2E-192C-4FAD-A6BD-ACA60160B297}|..\\ClientWeather\\ClientWeather.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B. solid \u0441\u0442\u0440\u0435\u0431\u043A\u043E\u0432\\proverochnyarabotanicholas\\serverweather\\clientweather\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B01F2E-192C-4FAD-A6BD-ACA60160B297}|..\\ClientWeather\\ClientWeather.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B. solid \u0441\u0442\u0440\u0435\u0431\u043A\u043E\u0432\\proverochnyarabotanicholas\\serverweather\\clientweather\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36648678-B790-483D-807B-45E6C8EB37BF}|..\\WeatherLibrary\\WeatherLibrary.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B. solid \u0441\u0442\u0440\u0435\u0431\u043A\u043E\u0432\\proverochnyarabotanicholas\\serverweather\\weatherlibrary\\interfaces\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B998B8-9125-4EE3-9A5C-E7D83E525374}|..\\Data\\Data.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B. solid \u0441\u0442\u0440\u0435\u0431\u043A\u043E\u0432\\proverochnyarabotanicholas\\serverweather\\data\\table\\weathertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B998B8-9125-4EE3-9A5C-E7D83E525374}|..\\Data\\Data.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B. solid \u0441\u0442\u0440\u0435\u0431\u043A\u043E\u0432\\proverochnyarabotanicholas\\serverweather\\data\\table\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36648678-B790-483D-807B-45E6C8EB37BF}|..\\WeatherLibrary\\WeatherLibrary.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B. solid \u0441\u0442\u0440\u0435\u0431\u043A\u043E\u0432\\proverochnyarabotanicholas\\serverweather\\weatherlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\Data\\Migrations\\20240605115544_Initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B998B8-9125-4EE3-9A5C-E7D83E525374}|..\\Data\\Data.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B. solid \u0441\u0442\u0440\u0435\u0431\u043A\u043E\u0432\\proverochnyarabotanicholas\\serverweather\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "..\\Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\Data\\Data.csproj",
+              "RelativeToolTip": "..\\Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-05T14:17:38.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\ClientWeather\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\ClientWeather\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\ClientWeather\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\ClientWeather\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwEAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:15:21.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\ServerWeather\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\ServerWeather\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAEcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:10:58.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\Data\\Table\\WeatherData.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Table\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\Data\\Table\\WeatherData.cs",
+              "RelativeToolTip": "..\\Data\\Table\\WeatherData.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwCMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:50:46.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherRequest.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\WeatherLibrary\\Model\\WeatherRequest.cs",
+              "RelativeDocumentMoniker": "..\\WeatherLibrary\\Model\\WeatherRequest.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\WeatherLibrary\\Model\\WeatherRequest.cs",
+              "RelativeToolTip": "..\\WeatherLibrary\\Model\\WeatherRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:06:49.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\WeatherLibrary\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "..\\WeatherLibrary\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\WeatherLibrary\\Services\\WeatherService.cs",
+              "RelativeToolTip": "..\\WeatherLibrary\\Services\\WeatherService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:09:23.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherResponse.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\WeatherLibrary\\Model\\WeatherResponse.cs",
+              "RelativeDocumentMoniker": "..\\WeatherLibrary\\Model\\WeatherResponse.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\WeatherLibrary\\Model\\WeatherResponse.cs",
+              "RelativeToolTip": "..\\WeatherLibrary\\Model\\WeatherResponse.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:07:08.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\ClientWeather\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\ClientWeather\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\ClientWeather\\MainWindow.xaml",
+              "RelativeToolTip": "..\\ClientWeather\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T12:15:25.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\ClientWeather\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\ClientWeather\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\ClientWeather\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\ClientWeather\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:33:38.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\Data\\Table\\Connection.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Table\\Connection.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\Data\\Table\\Connection.cs",
+              "RelativeToolTip": "..\\Data\\Table\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:53:04.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\WeatherLibrary\\Interfaces\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "..\\WeatherLibrary\\Interfaces\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\WeatherLibrary\\Interfaces\\IWeatherService.cs",
+              "RelativeToolTip": "..\\WeatherLibrary\\Interfaces\\IWeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:08:35.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherType.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\Data\\Table\\WeatherType.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Table\\WeatherType.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\Data\\Table\\WeatherType.cs",
+              "RelativeToolTip": "..\\Data\\Table\\WeatherType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:51:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\Data\\Table\\Location.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Table\\Location.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\Data\\Table\\Location.cs",
+              "RelativeToolTip": "..\\Data\\Table\\Location.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:50:03.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\WeatherLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\WeatherLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\WeatherLibrary\\Class1.cs",
+              "RelativeToolTip": "..\\WeatherLibrary\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:03:35.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240605115544_Initiall.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\Data\\Migrations\\20240605115544_Initiall.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Migrations\\20240605115544_Initiall.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\Data\\Migrations\\20240605115544_Initiall.cs",
+              "RelativeToolTip": "..\\Data\\Migrations\\20240605115544_Initiall.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:55:44.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041A\u0443\u0440\u0441\u044B. SOLID \u0421\u0422\u0420\u0415\u0411\u041A\u041E\u0412\\ProverochnyaRabotaNicholas\\ServerWeather\\Data\\Class1.cs",
+              "RelativeToolTip": "..\\Data\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:43:17.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

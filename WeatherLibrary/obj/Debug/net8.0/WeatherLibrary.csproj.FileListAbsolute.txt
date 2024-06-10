@@ -1,0 +1,15 @@
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\ProverochnyaRabotaNicholas\ServerWeather\WeatherLibrary\bin\Debug\net8.0\WeatherLibrary.deps.json
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\ProverochnyaRabotaNicholas\ServerWeather\WeatherLibrary\bin\Debug\net8.0\WeatherLibrary.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\ProverochnyaRabotaNicholas\ServerWeather\WeatherLibrary\bin\Debug\net8.0\WeatherLibrary.pdb
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\ProverochnyaRabotaNicholas\ServerWeather\WeatherLibrary\bin\Debug\net8.0\Data.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\ProverochnyaRabotaNicholas\ServerWeather\WeatherLibrary\bin\Debug\net8.0\Data.pdb
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\ProverochnyaRabotaNicholas\ServerWeather\WeatherLibrary\obj\Debug\net8.0\WeatherLibrary.csproj.AssemblyReference.cache
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\ProverochnyaRabotaNicholas\ServerWeather\WeatherLibrary\obj\Debug\net8.0\WeatherLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\ProverochnyaRabotaNicholas\ServerWeather\WeatherLibrary\obj\Debug\net8.0\WeatherLibrary.AssemblyInfoInputs.cache
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\ProverochnyaRabotaNicholas\ServerWeather\WeatherLibrary\obj\Debug\net8.0\WeatherLibrary.AssemblyInfo.cs
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\ProverochnyaRabotaNicholas\ServerWeather\WeatherLibrary\obj\Debug\net8.0\WeatherLibrary.csproj.CoreCompileInputs.cache
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\ProverochnyaRabotaNicholas\ServerWeather\WeatherLibrary\obj\Debug\net8.0\WeatherL.BF33C94A.Up2Date
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\ProverochnyaRabotaNicholas\ServerWeather\WeatherLibrary\obj\Debug\net8.0\WeatherLibrary.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\ProverochnyaRabotaNicholas\ServerWeather\WeatherLibrary\obj\Debug\net8.0\refint\WeatherLibrary.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\ProverochnyaRabotaNicholas\ServerWeather\WeatherLibrary\obj\Debug\net8.0\WeatherLibrary.pdb
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\ProverochnyaRabotaNicholas\ServerWeather\WeatherLibrary\obj\Debug\net8.0\ref\WeatherLibrary.dll
